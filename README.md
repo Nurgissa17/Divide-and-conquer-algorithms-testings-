@@ -61,8 +61,8 @@ Different input types were also tested
 Full results are in results/results.csv
 
 ## Plots
-![Time](docs/plots/time_vs_n.png)
-![Depth](docs/plots/recursion_depth_vs_n.png)
+![Time](docs/plots/time_vs_n.jpg)
+![Depth](docs/plots/recursion_depth_vs_n.jpg)
 
 ## Discussion
 The results are close to the expected complexity
@@ -78,8 +78,8 @@ The hardest parts were recursion partition and testing
 
 ## Screenshots
 Program output
-![Program](docs/screenshots/program_output.png)
+![Program](docs/screenshots/program_output.jpg)
 Test results
-![Tests](docs/screenshots/test_results.png)
+![Tests](docs/screenshots/test_results.jpg)
 Plots and results
-![Results](docs/screenshots/plots_results.png)
+![Results](docs/screenshots/plots_results.jpg)
